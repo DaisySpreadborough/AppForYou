@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">An app for you</string>
+    <string name="button_play_sound">Press Me</string>
+</resources>
